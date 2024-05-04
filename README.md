@@ -1,4 +1,4 @@
-# Execution Time Measurement Utility
+# micro-timer: A C++ Utility for Microsecond-Precision Execution Time Measurement
 
 This repository contains a C++ utility function that measures the execution time of any callable (function, lambda, functor, etc.) with microsecond precision.
 
